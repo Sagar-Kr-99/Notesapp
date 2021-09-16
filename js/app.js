@@ -84,3 +84,10 @@ search.addEventListener("input",function(){
      
 })
 
+//Further features
+//mark note
+//Mark a note as a Impt
+//search by title
+//add title
+//seprate with user
+//sync and host web server
